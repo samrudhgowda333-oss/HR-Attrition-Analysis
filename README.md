@@ -4,7 +4,7 @@
 Employee attrition is one of the most expensive and disruptive problems an organization can face — every employee who leaves takes institutional knowledge, ramp-up investment, and team stability with them. This project uses SQL to analyze an HR dataset of **1,470 employee records** and uncover **which factors are most strongly associated with attrition**, so HR and business leaders can move from guesswork to data-backed retention strategy.
 
 Using Oracle SQL, I queried and segmented employee data across department, compensation, overtime status, job satisfaction, work-life balance, age, and promotion history to build a clear picture of *who* is leaving and *why*.
-
+![HR Attrition Dashboard](./Screenshot%20.png)
 ## 2. Business Questions
 This analysis was designed to answer the questions HR and leadership actually care about:
 
